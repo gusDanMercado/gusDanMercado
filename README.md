@@ -1,139 +1,70 @@
-<!--
-## Hi there 👋
-**gusDanMercado/gusDanMercado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <center>👋 Hola, soy Gustavo Mercado</center>
 
-Here are some ideas to get you started:
+### Analista Programador | GeneXus 18 | Oracle | SQL Server | React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Integración, Migración de Datos y Desarrollo de Sistemas
 
-<!--
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+## 👨‍💻 Sobre mí
 
-###
+- 💼 Desarrollo y mantenimiento de sistemas empresariales.
+- 🧩 Trabajo con GeneXus 18, Genexus Server, Java, Oracle Database y SQL Server.
+- 🔄 Experiencia en integración y migración de datos entre SQL Server y Oracle.
+- 🐳 Utilizo Docker para crear entornos de desarrollo y pruebas.
+- 🗄️ Experiencia con Oracle, SQL Server, PostgreSQL y MySQL.
+- 🔧 Experiencia con versionado y trabajo colaborativo de Knowledge Bases mediante GeneXus Server.
+- 🚀 Interesado en arquitectura de software, automatización e integración de sistemas.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## 🛠️ Tecnologías y herramientas
 
-###
+### 💻 Desarrollo
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">Gustavo Daniel Mercado 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mi</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
--->
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-<h1 align="center">¡Hola! 👋 Soy Gustavo Daniel Mercado</h1>
-<h3 align="center">Desarrollador</h3> <!-- Desarrollador Full Stack | Laravel | Angular | GeneXus -->
-
----
-
-### 👩‍💻 **Sobre mí**
-
-- 💻 Actualmente trabajo con **Laravel 8, Angular 8**. <!--  y GeneXus -->
-- 🐳 Uso **Docker, PostgreSQL y MySQL** en mis proyectos.
-- 📚 Siempre aprendiendo nuevas tecnologías y frameworks.
-- 🎯 Buscando aprender y mejorar en **TypeScript, Node.js y React**.
-
----
-
-### 🛠 **Tecnologías y herramientas**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GeneXus](https://img.shields.io/badge/GENEXUS%2018-E91E63?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCAzMiI%2BCjx0ZXh0IHg9IjI0IiB5PSIyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjMwIiBmb250LXdlaWdodD0iNzAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IndoaXRlIj5HWDwvdGV4dD4KPC9zdmc%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+<!-- ![GeneXus](https://img.shields.io/badge/GeneXus_18-7A3E9D?style=for-the-badge) -->
 
-<!--
-### 📂 **Proyectos destacados**
+### ⚙️ Frameworks
 
-🔹 [EncuestaAN](https://github.com/niclovich/EncuestaAN) → Sistema de encuestas con Laravel.
-🔹 [Portafolio](https://github.com/gusDanMercado/portafolio) → Proyecto de portafolio personal.
-🔹 [Mi Primer Calculadora](https://github.com/gusDanMercado/Mi-Primer-Calculadora) → Calculadora básica con JavaScript.
-🔹 [Proyecto Final CoderHouse](https://github.com/gusDanMercado/proyectoFinalCoderHouse) → Proyecto final del curso.
-🔹 [JavaScript CoderHouse](https://github.com/gusDanMercado/JavaScriptCoderHouse) → Prácticas de JavaScript del curso.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
----
--->
+### 🗄️ Bases de datos
 
-### 📫 **Contáctame**
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%20Server-1F2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-📩 **Email:** gustavomerk2@gmail.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/gustavo-mercado-3334a1173)  
-🌐 [**Portafolio**](https://github.com/gusDanMercado/portafolio)
+### 🔧 Herramientas
 
----
+![GeneXus Server](https://img.shields.io/badge/GENEXUS%20SERVER-E91E63?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCAzMiI%2BCjx0ZXh0IHg9IjI0IiB5PSIyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjMwIiBmb250LXdlaWdodD0iNzAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IndoaXRlIj5HWDwvdGV4dD4KPC9zdmc%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
-¡Gracias por visitar mi perfil! 🚀✨
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gusDanMercado&theme=github_dark"
+    alt="Lenguajes más utilizados"
+  />
+</p>
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mercado-3334a1173)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomerk2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portafoliogustavomercado.netlify.app/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GustavoDMercado)
